@@ -1,0 +1,5 @@
+﻿name,ring,quadrant,isNew,description
+Java 11,language-and-frameworks,adopt,TRUE,"Long term support until September 2023"
+Java 8,language-and-frameworks,maintain,TRUE,"EOL July 2019"
+Micro-Frontends,techniques,adopt,TRUE,"Build, test and deploy small, reusable sections of the frontend applications in isolation of each other to increase parallel development and reduce risk."
+React,language-and-frameworks,adopt,TRUE,"We <3 React."
